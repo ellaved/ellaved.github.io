@@ -1,9 +1,0 @@
-- 🏠 [首页](README.md)
-- 📚 食品笔记
-  - [认证标准](notes/FSSC22000FSMA人类食品的预防性控制措施.md)
-  - [Linux 运维](notes/linux.md)
-  - [网络/排查](notes/network.md)
-- 📝 生活归档
-  - [日常随笔](notes/diary.md)
-- 💡 学习资料
-  - [读书笔记](notes/book.md)

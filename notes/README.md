@@ -1,6 +1,6 @@
-# 我的笔记列表
-这里会自动列出所有笔记
+# 📁 笔记目录
 
-- [Windows 技巧](win.md)
-- [Linux 运维](linux.md)
-- [网络知识](network.md)
+这里存放我的所有知识库笔记：
+
+- [FSSC22000FSMA 人类食品体系笔记](FSSC22000FSMA人类食品的预.md)
+- [读书笔记](book.md)

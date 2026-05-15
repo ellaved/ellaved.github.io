@@ -1,3 +1,0 @@
-- 🏠 [首页](README.md)
-- 📚 体系笔记
-  - [FSSC22000 食品体系](notes/FSSC22000FSMA人类食品的预.md)

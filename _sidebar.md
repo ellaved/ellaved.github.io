@@ -1,0 +1,9 @@
+- 🏠 [首页](README.md)
+- 📚 技术笔记
+  - [Windows 技巧](notes/win.md)
+  - [Linux 运维](notes/linux.md)
+  - [网络/排查](notes/network.md)
+- 📝 生活归档
+  - [日常随笔](notes/diary.md)
+- 💡 学习资料
+  - [读书笔记](notes/book.md)

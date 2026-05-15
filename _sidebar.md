@@ -1,6 +1,6 @@
 - 🏠 [首页](README.md)
 - 📚 食品笔记
-  - [认证标准](notes/FSSC 22000 FSMA人类食品的预防性控制措施.md)
+  - [认证标准](notes/FSSC22000FSMA人类食品的预防性控制措施.md)
   - [Linux 运维](notes/linux.md)
   - [网络/排查](notes/network.md)
 - 📝 生活归档
